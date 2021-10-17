@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "804486542696",
+    "project_id": "flutterflow-73289",
+    "storage_bucket": "flutterflow-73289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804486542696:android:52ab594a1697de0a3c92dd",
+        "android_client_info": {
+          "package_name": "health.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804486542696-9ju8nl9csdbdg56h7h4s9p0jk3cqhf45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZFnkGDqfzkqWThgOuHGBYPBCaAlisFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804486542696-9ju8nl9csdbdg56h7h4s9p0jk3cqhf45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804486542696-uegjpooa0mjtn91au0q97dtgi74n5qkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "health.ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
